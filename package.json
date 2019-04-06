@@ -1,0 +1,23 @@
+{
+  "name": "207hw3-master",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "app.js",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Mean",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apisak794/new.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Apisak794/new/issues"
+  },
+  "homepage": "https://github.com/Apisak794/new#readme"
+}
